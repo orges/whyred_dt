@@ -21,3 +21,4 @@ set_prop(hal_power_default, power_prop)
 
 # To dump
 allow hal_power_default cgroup:file read;
+

@@ -1,3 +1,6 @@
+# authsecret HAL
+/(vendor|system/vendor)/bin/hw/android\.hardware\.authsecret@1\.0-service u:object_r:hal_authsecret_default_exec:s0
+
 # IR
 /dev/spidev7\.1  u:object_r:ir_dev_file:s0
 
